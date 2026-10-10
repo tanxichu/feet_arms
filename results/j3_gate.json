@@ -1,0 +1,26 @@
+{
+ "internvl35_8b": {
+  "n": 200,
+  "agree": 0.81,
+  "omit_precision": 1.0,
+  "omit_said": 33,
+  "omit_recall": 0.515625,
+  "pass": false
+ },
+ "mistral_small31_24b": {
+  "n": 200,
+  "agree": 0.69,
+  "omit_precision": 0.5309734513274337,
+  "omit_said": 113,
+  "omit_recall": 0.9375,
+  "pass": false
+ },
+ "pixtral12b": {
+  "n": 200,
+  "agree": 0.69,
+  "omit_precision": 0.6463414634146342,
+  "omit_said": 82,
+  "omit_recall": 0.828125,
+  "pass": false
+ }
+}

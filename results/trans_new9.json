@@ -1,0 +1,132 @@
+{
+ "12": {
+  "O": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 220,
+   "comm_to_omit": 74,
+   "comm_to_clean": 18,
+   "pct_to_omit": 33.6
+  },
+  "F9": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 220,
+   "comm_to_omit": 34,
+   "comm_to_clean": 76,
+   "pct_to_omit": 15.5
+  },
+  "R9": {
+   "seeds": 1,
+   "n": 400,
+   "base_comm": 55,
+   "comm_to_omit": 26,
+   "comm_to_clean": 1,
+   "pct_to_omit": 47.3
+  }
+ },
+ "13": {
+  "O": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 64,
+   "comm_to_omit": 2,
+   "comm_to_clean": 28,
+   "pct_to_omit": 3.1
+  },
+  "F9": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 64,
+   "comm_to_omit": 3,
+   "comm_to_clean": 35,
+   "pct_to_omit": 4.7
+  },
+  "R9": {
+   "seeds": 1,
+   "n": 400,
+   "base_comm": 16,
+   "comm_to_omit": 0,
+   "comm_to_clean": 12,
+   "pct_to_omit": 0.0
+  }
+ },
+ "14": {
+  "O": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 204,
+   "comm_to_omit": 19,
+   "comm_to_clean": 63,
+   "pct_to_omit": 9.3
+  },
+  "F9": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 204,
+   "comm_to_omit": 7,
+   "comm_to_clean": 90,
+   "pct_to_omit": 3.4
+  },
+  "R9": {
+   "seeds": 1,
+   "n": 400,
+   "base_comm": 51,
+   "comm_to_omit": 7,
+   "comm_to_clean": 17,
+   "pct_to_omit": 13.7
+  }
+ },
+ "15": {
+  "O": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 20,
+   "comm_to_omit": 4,
+   "comm_to_clean": 7,
+   "pct_to_omit": 20.0
+  },
+  "F9": {
+   "seeds": 4,
+   "n": 1600,
+   "base_comm": 20,
+   "comm_to_omit": 4,
+   "comm_to_clean": 11,
+   "pct_to_omit": 20.0
+  },
+  "R9": {
+   "seeds": 1,
+   "n": 400,
+   "base_comm": 5,
+   "comm_to_omit": 1,
+   "comm_to_clean": 1,
+   "pct_to_omit": 20.0
+  }
+ },
+ "all": {
+  "O": {
+   "seeds": 4,
+   "n": 6400,
+   "base_comm": 508,
+   "comm_to_omit": 99,
+   "comm_to_clean": 116,
+   "pct_to_omit": 19.5
+  },
+  "F9": {
+   "seeds": 4,
+   "n": 6400,
+   "base_comm": 508,
+   "comm_to_omit": 48,
+   "comm_to_clean": 212,
+   "pct_to_omit": 9.4
+  },
+  "R9": {
+   "seeds": 1,
+   "n": 1600,
+   "base_comm": 127,
+   "comm_to_omit": 34,
+   "comm_to_clean": 31,
+   "pct_to_omit": 26.8
+  }
+ }
+}

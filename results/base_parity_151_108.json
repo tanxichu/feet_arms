@@ -1,0 +1,8 @@
+{
+ "n": 361,
+ "identical": 361,
+ "max_le_2": 361,
+ "mean_absdiff_median": 0.0,
+ "shape_mismatch": 0,
+ "note": "per-image rows omitted (keys contain source photo IDs); summary only"
+}
